@@ -1,0 +1,278 @@
+172.16.1.101 | SUCCESS | rc=0 >>
+
+Interface                  IP-Address      OK? Method Status                Protocol
+GigabitEthernet0/0         172.16.1.101    YES manual up                    up      
+GigabitEthernet0/1         10.0.0.9        YES NVRAM  up                    up      
+GigabitEthernet0/2         10.0.0.17       YES NVRAM  up                    up      
+Loopback0                  192.168.0.1     YES NVRAM  up                    up      
+
+**************************************************************************
+* IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+* education. IOSv is provided as-is and is not supported by Cisco's      *
+* Technical Advisory Center. Any use or disclosure, in whole or in part, *
+* of the IOSv Software or Documentation to any third party for any       *
+* purposes is expressly prohibited except as otherwise authorized by     *
+* Cisco in writing.                                                      *
+**************************************************************************Shared connection to 172.16.1.101 closed.
+
+172.16.1.105 | SUCCESS | rc=0 >>
+
+Interface                  IP-Address      OK? Method Status                Protocol
+GigabitEthernet0/0         172.16.1.105    YES manual up                    up      
+GigabitEthernet0/1         10.0.0.30       YES NVRAM  up                    up      
+GigabitEthernet0/2         10.0.0.26       YES NVRAM  up                    up      
+GigabitEthernet0/3         10.0.0.6        YES NVRAM  up                    up      
+Loopback0                  192.168.0.5     YES NVRAM  up                    up      
+
+**************************************************************************
+* IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+* education. IOSv is provided as-is and is not supported by Cisco's      *
+* Technical Advisory Center. Any use or disclosure, in whole or in part, *
+* of the IOSv Software or Documentation to any third party for any       *
+* purposes is expressly prohibited except as otherwise authorized by     *
+* Cisco in writing.                                                      *
+**************************************************************************Shared connection to 172.16.1.105 closed.
+
+172.16.1.102 | SUCCESS | rc=0 >>
+
+Interface                  IP-Address      OK? Method Status                Protocol
+GigabitEthernet0/0         172.16.1.102    YES manual up                    up      
+GigabitEthernet0/1         10.0.0.29       YES NVRAM  up                    up      
+GigabitEthernet0/2         10.0.0.13       YES NVRAM  up                    up      
+Loopback0                  192.168.0.2     YES NVRAM  up                    up      
+
+**************************************************************************
+* IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+* education. IOSv is provided as-is and is not supported by Cisco's      *
+* Technical Advisory Center. Any use or disclosure, in whole or in part, *
+* of the IOSv Software or Documentation to any third party for any       *
+* purposes is expressly prohibited except as otherwise authorized by     *
+* Cisco in writing.                                                      *
+**************************************************************************Shared connection to 172.16.1.102 closed.
+
+172.16.1.104 | SUCCESS | rc=0 >>
+
+Interface                  IP-Address      OK? Method Status                Protocol
+GigabitEthernet0/0         172.16.1.104    YES manual up                    up      
+GigabitEthernet0/1         10.0.0.18       YES NVRAM  up                    up      
+GigabitEthernet0/2         10.0.0.22       YES NVRAM  up                    up      
+Loopback0                  192.168.0.4     YES NVRAM  up                    up      
+
+**************************************************************************
+* IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+* education. IOSv is provided as-is and is not supported by Cisco's      *
+* Technical Advisory Center. Any use or disclosure, in whole or in part, *
+* of the IOSv Software or Documentation to any third party for any       *
+* purposes is expressly prohibited except as otherwise authorized by     *
+* Cisco in writing.                                                      *
+**************************************************************************Shared connection to 172.16.1.104 closed.
+
+172.16.1.103 | SUCCESS | rc=0 >>
+
+Interface                  IP-Address      OK? Method Status                Protocol
+GigabitEthernet0/0         172.16.1.103    YES manual up                    up      
+GigabitEthernet0/1         10.0.0.5        YES NVRAM  up                    up      
+GigabitEthernet0/2         10.0.0.10       YES NVRAM  up                    up      
+GigabitEthernet0/3         10.0.0.21       YES NVRAM  up                    up      
+Loopback0                  192.168.0.3     YES NVRAM  up                    up      
+
+**************************************************************************
+* IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+* education. IOSv is provided as-is and is not supported by Cisco's      *
+* Technical Advisory Center. Any use or disclosure, in whole or in part, *
+* of the IOSv Software or Documentation to any third party for any       *
+* purposes is expressly prohibited except as otherwise authorized by     *
+* Cisco in writing.                                                      *
+**************************************************************************Shared connection to 172.16.1.103 closed.
+
+172.16.1.106 | SUCCESS | rc=0 >>
+
+Interface                  IP-Address      OK? Method Status                Protocol
+GigabitEthernet0/0         172.16.1.106    YES manual up                    up      
+GigabitEthernet0/1         10.0.0.25       YES NVRAM  up                    up      
+GigabitEthernet0/2         10.0.0.14       YES NVRAM  up                    up      
+Loopback0                  192.168.0.6     YES NVRAM  up                    up      
+
+**************************************************************************
+* IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+* education. IOSv is provided as-is and is not supported by Cisco's      *
+* Technical Advisory Center. Any use or disclosure, in whole or in part, *
+* of the IOSv Software or Documentation to any third party for any       *
+* purposes is expressly prohibited except as otherwise authorized by     *
+* Cisco in writing.                                                      *
+**************************************************************************Shared connection to 172.16.1.106 closed.
+
+172.16.1.101 | SUCCESS | rc=0 >>
+
+Capability Codes: R - Router, T - Trans Bridge, B - Source Route Bridge
+                  S - Switch, H - Host, I - IGMP, r - Repeater, P - Phone, 
+                  D - Remote, C - CVTA, M - Two-port Mac Relay 
+
+Device ID        Local Intrfce     Holdtme    Capability  Platform  Port ID
+New_York.virl.info
+                 Gig 0/0           139              R B             Gig 0/0
+London.virl.info Gig 0/1           153              R B             Gig 0/2
+London.virl.info Gig 0/0           143              R B             Gig 0/0
+Dallas.virl.info Gig 0/0           158              R B             Gig 0/0
+Chicago.virl.info
+                 Gig 0/0           147              R B             Gig 0/0
+Paris.virl.info  Gig 0/2           131              R B             Gig 0/1
+Paris.virl.info  Gig 0/0           147              R B             Gig 0/0
+
+Total cdp entries displayed : 7
+**************************************************************************
+* IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+* education. IOSv is provided as-is and is not supported by Cisco's      *
+* Technical Advisory Center. Any use or disclosure, in whole or in part, *
+* of the IOSv Software or Documentation to any third party for any       *
+* purposes is expressly prohibited except as otherwise authorized by     *
+* Cisco in writing.                                                      *
+**************************************************************************Shared connection to 172.16.1.101 closed.
+
+172.16.1.103 | SUCCESS | rc=0 >>
+
+Capability Codes: R - Router, T - Trans Bridge, B - Source Route Bridge
+                  S - Switch, H - Host, I - IGMP, r - Repeater, P - Phone, 
+                  D - Remote, C - CVTA, M - Two-port Mac Relay 
+
+Device ID        Local Intrfce     Holdtme    Capability  Platform  Port ID
+New_York.virl.info
+                 Gig 0/0           139              R B             Gig 0/0
+New_York.virl.info
+                 Gig 0/1           167              R B             Gig 0/3
+Brussels.virl.info
+                 Gig 0/0           140              R B             Gig 0/0
+Brussels.virl.info
+                 Gig 0/2           174              R B             Gig 0/1
+Dallas.virl.info Gig 0/0           159              R B             Gig 0/0
+Chicago.virl.info
+                 Gig 0/0           147              R B             Gig 0/0
+Paris.virl.info  Gig 0/3           174              R B             Gig 0/2
+Paris.virl.info  Gig 0/0           147              R B             Gig 0/0
+
+Total cdp entries displayed : 8
+**************************************************************************
+* IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+* education. IOSv is provided as-is and is not supported by Cisco's      *
+* Technical Advisory Center. Any use or disclosure, in whole or in part, *
+* of the IOSv Software or Documentation to any third party for any       *
+* purposes is expressly prohibited except as otherwise authorized by     *
+* Cisco in writing.                                                      *
+**************************************************************************Shared connection to 172.16.1.103 closed.
+
+172.16.1.104 | SUCCESS | rc=0 >>
+
+Capability Codes: R - Router, T - Trans Bridge, B - Source Route Bridge
+                  S - Switch, H - Host, I - IGMP, r - Repeater, P - Phone, 
+                  D - Remote, C - CVTA, M - Two-port Mac Relay 
+
+Device ID        Local Intrfce     Holdtme    Capability  Platform  Port ID
+New_York.virl.info
+                 Gig 0/0           139              R B             Gig 0/0
+London.virl.info Gig 0/0           143              R B             Gig 0/0
+London.virl.info Gig 0/2           176              R B             Gig 0/3
+Brussels.virl.info
+                 Gig 0/1           145              R B             Gig 0/2
+Brussels.virl.info
+                 Gig 0/0           140              R B             Gig 0/0
+Dallas.virl.info Gig 0/0           159              R B             Gig 0/0
+Chicago.virl.info
+                 Gig 0/0           147              R B             Gig 0/0
+
+Total cdp entries displayed : 7
+**************************************************************************
+* IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+* education. IOSv is provided as-is and is not supported by Cisco's      *
+* Technical Advisory Center. Any use or disclosure, in whole or in part, *
+* of the IOSv Software or Documentation to any third party for any       *
+* purposes is expressly prohibited except as otherwise authorized by     *
+* Cisco in writing.                                                      *
+**************************************************************************Shared connection to 172.16.1.104 closed.
+
+172.16.1.105 | SUCCESS | rc=0 >>
+
+Capability Codes: R - Router, T - Trans Bridge, B - Source Route Bridge
+                  S - Switch, H - Host, I - IGMP, r - Repeater, P - Phone, 
+                  D - Remote, C - CVTA, M - Two-port Mac Relay 
+
+Device ID        Local Intrfce     Holdtme    Capability  Platform  Port ID
+London.virl.info Gig 0/3           168              R B             Gig 0/1
+London.virl.info Gig 0/0           143              R B             Gig 0/0
+Brussels.virl.info
+                 Gig 0/0           140              R B             Gig 0/0
+Dallas.virl.info Gig 0/2           149              R B             Gig 0/1
+Dallas.virl.info Gig 0/0           159              R B             Gig 0/0
+Chicago.virl.info
+                 Gig 0/1           165              R B             Gig 0/1
+Chicago.virl.info
+                 Gig 0/0           147              R B             Gig 0/0
+Paris.virl.info  Gig 0/0           147              R B             Gig 0/0
+
+Total cdp entries displayed : 8
+**************************************************************************
+* IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+* education. IOSv is provided as-is and is not supported by Cisco's      *
+* Technical Advisory Center. Any use or disclosure, in whole or in part, *
+* of the IOSv Software or Documentation to any third party for any       *
+* purposes is expressly prohibited except as otherwise authorized by     *
+* Cisco in writing.                                                      *
+**************************************************************************Shared connection to 172.16.1.105 closed.
+
+172.16.1.102 | SUCCESS | rc=0 >>
+
+Capability Codes: R - Router, T - Trans Bridge, B - Source Route Bridge
+                  S - Switch, H - Host, I - IGMP, r - Repeater, P - Phone, 
+                  D - Remote, C - CVTA, M - Two-port Mac Relay 
+
+Device ID        Local Intrfce     Holdtme    Capability  Platform  Port ID
+New_York.virl.info
+                 Gig 0/1           165              R B             Gig 0/1
+New_York.virl.info
+                 Gig 0/0           138              R B             Gig 0/0
+London.virl.info Gig 0/0           142              R B             Gig 0/0
+Brussels.virl.info
+                 Gig 0/0           138              R B             Gig 0/0
+Dallas.virl.info Gig 0/2           170              R B             Gig 0/2
+Dallas.virl.info Gig 0/0           158              R B             Gig 0/0
+Paris.virl.info  Gig 0/0           146              R B             Gig 0/0
+
+Total cdp entries displayed : 7
+**************************************************************************
+* IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+* education. IOSv is provided as-is and is not supported by Cisco's      *
+* Technical Advisory Center. Any use or disclosure, in whole or in part, *
+* of the IOSv Software or Documentation to any third party for any       *
+* purposes is expressly prohibited except as otherwise authorized by     *
+* Cisco in writing.                                                      *
+**************************************************************************Shared connection to 172.16.1.102 closed.
+
+172.16.1.106 | SUCCESS | rc=0 >>
+
+Capability Codes: R - Router, T - Trans Bridge, B - Source Route Bridge
+                  S - Switch, H - Host, I - IGMP, r - Repeater, P - Phone, 
+                  D - Remote, C - CVTA, M - Two-port Mac Relay 
+
+Device ID        Local Intrfce     Holdtme    Capability  Platform  Port ID
+New_York.virl.info
+                 Gig 0/0           138              R B             Gig 0/0
+New_York.virl.info
+                 Gig 0/1           127              R B             Gig 0/2
+London.virl.info Gig 0/0           142              R B             Gig 0/0
+Brussels.virl.info
+                 Gig 0/0           139              R B             Gig 0/0
+Chicago.virl.info
+                 Gig 0/0           146              R B             Gig 0/0
+Chicago.virl.info
+                 Gig 0/2           161              R B             Gig 0/2
+Paris.virl.info  Gig 0/0           146              R B             Gig 0/0
+
+Total cdp entries displayed : 7
+**************************************************************************
+* IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+* education. IOSv is provided as-is and is not supported by Cisco's      *
+* Technical Advisory Center. Any use or disclosure, in whole or in part, *
+* of the IOSv Software or Documentation to any third party for any       *
+* purposes is expressly prohibited except as otherwise authorized by     *
+* Cisco in writing.                                                      *
+**************************************************************************Shared connection to 172.16.1.106 closed.
+
